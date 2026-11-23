@@ -164,7 +164,6 @@ export default function App() {
         {/* Cabeçalho */}
         <View style={styles.header}>
           <Text style={styles.titulo}>Cadastro de Produtos</Text>
-          <Text style={styles.subtitulo}>Conectado ao PostgreSQL (Neon)</Text>
         </View>
 
         {/* Formulário */}
